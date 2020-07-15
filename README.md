@@ -3,7 +3,7 @@
 SOLUTIONS ARCHITECT / SCRUM MASTER / AGILE COACH / TECH LEAD
 
 
-//10+ yeas working with software development
+//10+ years working with software development
 
 //05+ years working and improving gile environments;
 
