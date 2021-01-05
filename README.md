@@ -1,6 +1,6 @@
 ### Manoel Medeiros Neto | MMeD
 
-SOLUTIONS ARCHITECT / SCRUM MASTER / AGILE COACH / TECH LEAD
+SOLUTIONS ARCHITECT / AGILE MASTER / AGILE COACH / TECH LEAD
 
 
 //10+ years working with software development
