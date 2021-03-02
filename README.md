@@ -3,11 +3,11 @@
 SOLUTIONS ARCHITECT / AGILE MASTER / AGILE COACH / TECH LEAD
 
 
-//10+ years working with software development
+* 10+ years working with software development
 
-//05+ years working and improving agile environments;
+* 05+ years working and improving agile environments;
 
-/*FACINATED BY TECHNOLOGY, AGILE AND PEOPLES*/
+*FACINATED BY TECHNOLOGY, AGILE AND PEOPLES*
 
 
 🔭 Currently working at TCS as a Soluction Architect and Agile Master
