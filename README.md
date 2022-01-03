@@ -3,13 +3,13 @@
 SOLUTIONS ARCHITECT / AGILE MASTER / AGILE COACH / TECH LEAD
 
 
-* 10+ years working with software development
+* 12+ years working with software development
 
-* 05+ years working and improving agile environments;
+* 06+ years working and improving agile environments;
 
 *FACINATED BY TECHNOLOGY, AGILE AND PEOPLES*
 
 
-🔭 Currently working at TCS as a Soluction Architect and Agile Master
+🔭 Currently working at META as a Soluction Architect and Agile Coach
 
-🌱 Currently learning about a lot of things, like SAFe, Scrum, Kanban, Management 3.0, Clean architecture...
+#JAVA #SPRING #EDA #CLOUD #MICROSERVICES #ARCHSW #ARCHSOL . . .
