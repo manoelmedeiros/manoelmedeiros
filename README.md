@@ -3,9 +3,9 @@
 SOLUTIONS ARCHITECT / AGILE MASTER / AGILE COACH / TECH LEAD
 
 
-* 12+ years working with software development
+* 13+ years working with software development
 
-* 06+ years working and improving agile environments;
+* 07+ years working and improving agile environments;
 
 *FACINATED BY TECHNOLOGY, AGILE AND PEOPLES*
 
